@@ -257,3 +257,9 @@ uv run pytest tests/ -v -m integration
 
 **Document ID Resolution**: `get_document_id_from_title` for user-friendly lookups
 - When tagging version numbers look at changes since last version. Follow this rule for version number, go from left to right. First one hit is the new version number. Anye feat!: => major version, any feat: => minor version, Only fix: => patch version. Use annotated tag with a short summary of what the release contains.
+
+## Session Protocol
+
+- Canonical source: `~/workspace/centralhub-command-center/AGENTS.md` (`## Session Protocol`)
+- This section is propagated from the canonical source through `sync-sections`.
+- Keep local edits minimal; update canonical source first for durable changes.
